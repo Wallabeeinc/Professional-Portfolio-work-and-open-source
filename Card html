@@ -1,0 +1,29 @@
+<DOCTYPEhtml>
+
+<html>
+<head>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Building the Prototype</title>
+  <link rel= "stylesheet" href= "styles.css">
+</head>
+<body>
+	<div id="container">
+		<h1>Turkey Vulture</h1>
+		<!-- photo credit: wikipedia.org, image taken by Ritik -->
+		<img src= "https://www.oregonzoo.org/sites/default/files/styles/exhibit_photo/public/2012/03/21/H_orig_turkeyvulture.jpg?itok=DyPWivPN" alt="Turkey Vulture">
+		<div id="card" class ="animal-info">
+			<p id="interesting-fact">The Turkey Vulture is one of the few birds that uses it's sense of smell to locate food.</p>
+			<ul id="facts">
+              <li><span><strong>Scientific Name</strong></span>: Carthartes Aura</li>
+              <li><span><strong>Average Length</strong></span>: 25 to 36 inches </li>
+              <li><span><strong>Wingspan</strong></span>:5 to 6 Feet</li>
+              <li><span><strong>Average Lifespan</strong></span>: Up to 16 years</li>
+              <li><span><strong>Habitat</strong></span>: North America, South America and the Carribean</li>
+              
+			</ul>
+			<p id="summary">The most widespread vulture in North America, the Turkey Vulture is locally known as the "Buzzard" in many areas. A Turkey Vulture standing on the ground can, at a distance, resemble a wild turkey. Overall, it is Black with brownish tones, especially on the feather edges. Turkey Vultures are almost entirely carrion eaters, which means the feed on animals that are already dead. </p>
+		</div>
+	</div>
+</body>
+</html>
