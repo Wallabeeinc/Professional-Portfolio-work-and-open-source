@@ -1,0 +1,43 @@
+/* add your CSS here */
+img{
+  width: 300px;
+  border: 2mm ridge blue;
+  burder-radius: 10px;
+  box-shadow: 5px 5px 3px;
+ 
+}
+body{
+  text-align: center;
+  padding: 60px;
+  margin: 30px;
+  background-color: lightblue;
+  border: solid;
+  border-radius: 6px;
+}
+
+ li{
+   list-style-type: none;
+}
+span{
+  font-weight: bold; 
+}
+#interesting-fact{
+  font-style: italic;
+  padding: 1px;
+}
+ 
+.animal-info{
+  border: solid;
+  border-radius: 10px;
+  margin: 50px;
+  padding: 60px;
+  box-shadow: 10px 5px 5px black;
+}
+
+#container{
+  border: solid;
+  padding: 1px;
+  border-radius: 6px;
+  box-shadow: 9px 6px 6px black;
+}
+   
